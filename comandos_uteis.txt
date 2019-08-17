@@ -1,0 +1,4 @@
+Comandos para Git
+
+1)Criar um repositório
+git init
